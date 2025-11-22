@@ -2,13 +2,22 @@ import pytest
 from selenium import webdriver
 import allure
 from datetime import datetime
+import os
 
 @pytest.fixture(scope="class")
 def oneTimeSetUp(request):
     print("Running one time setUp")
     options = webdriver.ChromeOptions()
+    
+    # Running in Jenkins/CI typically requires headless mode and other specific flags
+    # You can check for an env var or just enable these by default for stability
+    options.add_argument('--headless') 
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--window-size=1920,1080')
     options.add_argument('--start-maximized')
-    # options.add_argument('--headless') 
+    
     driver = webdriver.Chrome(options=options)
     
     if request.cls is not None:
@@ -48,8 +57,11 @@ def pytest_runtest_makereport(item, call):
         if driver:
             now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             file_name = f"screenshot_{item.name}_{now}.png"
-            allure.attach(
-                driver.get_screenshot_as_png(),
-                name=file_name,
-                attachment_type=allure.attachment_type.PNG
-            )
+            try:
+                allure.attach(
+                    driver.get_screenshot_as_png(),
+                    name=file_name,
+                    attachment_type=allure.attachment_type.PNG
+                )
+            except Exception as e:
+                print(f"Failed to capture screenshot: {e}")
