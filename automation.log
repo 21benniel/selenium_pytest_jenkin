@@ -1,0 +1,625 @@
+11/22/2025 12:27:21 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:27:22 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:27:23 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:27:23 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:27:23 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:27:24 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:27:24 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:28:26 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:28:27 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:28:28 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:28:28 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:28:28 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:30:41 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:30:42 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:30:44 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:30:44 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:30:44 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:35:21 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:35:22 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:35:24 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:35:24 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:35:24 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:35:24 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:35:24 PM - HomePage - INFO: Element found with locator: //button[@aria-label='Open Solutions menu'] and  locatorType: xpath
+11/22/2025 12:35:25 PM - HomePage - INFO: Clicked on element with locator: //button[@aria-label='Open Solutions menu'] locatorType: xpath
+11/22/2025 12:35:25 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:35:35 PM - HomePage - INFO: Element not appeared on the web page
+11/22/2025 12:35:35 PM - HomePage - INFO: Element found with locator: //a[contains(@href, '/products/database-service')] and  locatorType: xpath
+11/22/2025 12:35:35 PM - HomePage - INFO: Cannot click on the element with locator: //a[contains(@href, '/products/database-service')] locatorType: xpath
+11/22/2025 12:35:35 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - ERROR: Benefit missing: Fast Snapshots
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:45 PM - DatabaseAsServicePage - ERROR: Benefit missing: Quick Provisioning
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Easy Patching
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Reduced Costs
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Thin Cloning
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Effortless Replication
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:35:46 PM - DatabaseAsServicePage - ERROR: Benefit missing: Boost Performance
+11/22/2025 12:36:36 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:36:37 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:36:39 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:36:39 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:36:39 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:36:39 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:36:39 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:36:39 PM - HomePage - INFO: Element appeared on the web page
+11/22/2025 12:36:39 PM - HomePage - INFO: Element found with locator: //button[@aria-label='Open Solutions menu'] and  locatorType: xpath
+11/22/2025 12:36:40 PM - HomePage - INFO: Clicked on element with locator: //button[@aria-label='Open Solutions menu'] locatorType: xpath
+11/22/2025 12:36:40 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:36:50 PM - HomePage - INFO: Element not appeared on the web page
+11/22/2025 12:36:50 PM - HomePage - INFO: Element found with locator: //a[contains(@href, '/products/database-service')] and  locatorType: xpath
+11/22/2025 12:36:50 PM - HomePage - INFO: Cannot click on the element with locator: //a[contains(@href, '/products/database-service')] locatorType: xpath
+11/22/2025 12:36:50 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:37:00 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:37:00 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:37:00 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:37:00 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:00 PM - DatabaseAsServicePage - ERROR: Benefit missing: Fast Snapshots
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Quick Provisioning
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Easy Patching
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Reduced Costs
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Thin Cloning
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Effortless Replication
+11/22/2025 12:37:02 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:37:02 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:37:02 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:37:02 PM - DatabaseAsServicePage - ERROR: Benefit missing: Boost Performance
+11/22/2025 12:37:53 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:37:54 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:37:55 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:37:55 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:37:55 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:37:55 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:37:55 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:37:56 PM - HomePage - INFO: Element appeared on the web page
+11/22/2025 12:37:56 PM - HomePage - INFO: Element found with locator: //button[@aria-label='Open Solutions menu'] and  locatorType: xpath
+11/22/2025 12:37:56 PM - HomePage - INFO: Clicked on element with locator: //button[@aria-label='Open Solutions menu'] locatorType: xpath
+11/22/2025 12:37:57 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:38:07 PM - HomePage - INFO: Element not appeared on the web page
+11/22/2025 12:38:07 PM - HomePage - INFO: Element found with locator: //a[contains(@href, '/products/database-service')] and  locatorType: xpath
+11/22/2025 12:38:07 PM - HomePage - INFO: Cannot click on the element with locator: //a[contains(@href, '/products/database-service')] locatorType: xpath
+11/22/2025 12:38:07 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Fast Snapshots
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Quick Provisioning
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Easy Patching
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Reduced Costs
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - ERROR: Benefit missing: Thin Cloning
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - ERROR: Benefit missing: Effortless Replication
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:38:19 PM - DatabaseAsServicePage - ERROR: Benefit missing: Boost Performance
+11/22/2025 12:39:33 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:39:34 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:39:36 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:39:36 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:39:36 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:39:36 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:39:36 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:39:36 PM - HomePage - INFO: Element appeared on the web page
+11/22/2025 12:39:36 PM - HomePage - INFO: Element found with locator: //button[@aria-label='Open Solutions menu'] and  locatorType: xpath
+11/22/2025 12:39:37 PM - HomePage - INFO: Clicked on element with locator: //button[@aria-label='Open Solutions menu'] locatorType: xpath
+11/22/2025 12:39:39 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/22/2025 12:39:49 PM - HomePage - INFO: Element not appeared on the web page
+11/22/2025 12:39:49 PM - HomePage - INFO: Element found with locator: //a[contains(@href, '/products/database-service')] and  locatorType: xpath
+11/22/2025 12:39:49 PM - HomePage - INFO: Cannot click on the element with locator: //a[contains(@href, '/products/database-service')] locatorType: xpath
+11/22/2025 12:39:51 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:40:02 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:02 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 12:40:02 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:40:02 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:02 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:07 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:07 PM - DatabaseAsServicePage - ERROR: Benefit missing: Fast Snapshots
+11/22/2025 12:40:07 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:40:07 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:07 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:12 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:12 PM - DatabaseAsServicePage - ERROR: Benefit missing: Quick Provisioning
+11/22/2025 12:40:12 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:40:12 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:12 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:18 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:18 PM - DatabaseAsServicePage - ERROR: Benefit missing: Easy Patching
+11/22/2025 12:40:18 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:40:18 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:18 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:23 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:23 PM - DatabaseAsServicePage - ERROR: Benefit missing: Reduced Costs
+11/22/2025 12:40:23 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:40:23 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:23 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:28 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:28 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:40:28 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:40:28 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:28 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:34 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:34 PM - DatabaseAsServicePage - ERROR: Benefit missing: Thin Cloning
+11/22/2025 12:40:34 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:40:34 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:34 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:39 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:39 PM - DatabaseAsServicePage - ERROR: Benefit missing: Effortless Replication
+11/22/2025 12:40:39 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:40:39 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:40:39 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:40:44 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:40:44 PM - DatabaseAsServicePage - ERROR: Benefit missing: Boost Performance
+11/22/2025 12:41:28 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:41:30 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:41:32 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:41:32 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:41:32 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:41:32 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:41:32 PM - HomePage - INFO: Navigating directly to Database as Service page
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Element present on the web page
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Element found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:41:34 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:41:40 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:41:40 PM - DatabaseAsServicePage - ERROR: Benefit missing: Fast Snapshots
+11/22/2025 12:41:40 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:41:40 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:41:40 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:41:45 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:41:45 PM - DatabaseAsServicePage - ERROR: Benefit missing: Quick Provisioning
+11/22/2025 12:41:45 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:41:45 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:41:45 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:41:50 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:41:50 PM - DatabaseAsServicePage - ERROR: Benefit missing: Easy Patching
+11/22/2025 12:41:50 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:41:50 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:41:50 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:41:56 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:41:56 PM - DatabaseAsServicePage - ERROR: Benefit missing: Reduced Costs
+11/22/2025 12:41:56 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:41:56 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:41:56 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:42:01 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:42:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:42:01 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:42:01 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:42:01 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:42:06 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:42:06 PM - DatabaseAsServicePage - ERROR: Benefit missing: Thin Cloning
+11/22/2025 12:42:06 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:42:06 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:42:06 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:42:11 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:42:11 PM - DatabaseAsServicePage - ERROR: Benefit missing: Effortless Replication
+11/22/2025 12:42:12 PM - DatabaseAsServicePage - INFO: Element not found with locator: //h3[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:42:12 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:42:12 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:42:17 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:42:17 PM - DatabaseAsServicePage - ERROR: Benefit missing: Boost Performance
+11/22/2025 12:43:51 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:43:52 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:43:53 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:43:53 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:43:53 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:43:53 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:43:54 PM - HomePage - INFO: Navigating directly to Database as Service page
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element present on the web page
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Benefit found: Fast Snapshots
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Benefit found: Quick Provisioning
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Benefit found: Easy Patching
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Benefit found: Reduced Costs
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element not found with locator: //*[contains(text(), "Rapid Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Element not found
+11/22/2025 12:43:56 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 5 :: seconds for element presence
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element not present on the web page
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - ERROR: Benefit missing: Rapid Point-in-Time Recovery
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Benefit found: Thin Cloning
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Benefit found: Effortless Replication
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:01 PM - DatabaseAsServicePage - INFO: Benefit found: Boost Performance
+11/22/2025 12:44:41 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 12:44:42 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 12:44:43 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 12:44:43 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 12:44:44 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 12:44:44 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 12:44:44 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 12:44:44 PM - HomePage - INFO: Navigating directly to Database as Service page
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element present on the web page
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Benefit found: Fast Snapshots
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Benefit found: Quick Provisioning
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Benefit found: Easy Patching
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Benefit found: Reduced Costs
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:46 PM - DatabaseAsServicePage - INFO: Benefit found: Point-in-Time Recovery
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Benefit found: Thin Cloning
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Benefit found: Effortless Replication
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 12:44:47 PM - DatabaseAsServicePage - INFO: Benefit found: Boost Performance
+11/22/2025 12:44:47 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 01:06:47 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 01:06:49 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 01:06:51 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 01:06:51 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 01:06:51 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 01:06:51 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 01:06:51 PM - HomePage - INFO: Navigating directly to Database as Service page
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Element present on the web page
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Element found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:53 PM - DatabaseAsServicePage - INFO: Benefit found: Fast Snapshots
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Quick Provisioning
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Easy Patching
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Reduced Costs
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Point-in-Time Recovery
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Thin Cloning
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Effortless Replication
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 01:06:54 PM - DatabaseAsServicePage - INFO: Benefit found: Boost Performance
+11/22/2025 01:06:54 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 02:58:25 PM - TestNutanixCloudModel - INFO: Starting test_verify_cloud_operating_model
+11/22/2025 02:58:28 PM - HomePage - INFO: Element found with locator: What We Do and  locatorType: link
+11/22/2025 02:58:30 PM - HomePage - INFO: Clicked on element with locator: What We Do locatorType: link
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element present on the web page
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Modernize Your Datacenter")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Modernize Your Datacenter
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Unify Operations on a Single Platform")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Unify Operations on a Single Platform
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Speed App Development and Deployment")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Speed App Development and Deployment
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Move Apps and Data with Ease")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Move Apps and Data with Ease
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Build More Agile and Flexible Operations")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Build More Agile and Flexible Operations
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found with locator: //h3[contains(text(), "Protect Against Cyber Threats and Data Loss")] and  locatorType: xpath
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Element found
+11/22/2025 02:58:30 PM - WhatWeDoPage - INFO: Item found: Protect Against Cyber Threats and Data Loss
+11/22/2025 02:58:30 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
+11/22/2025 02:58:30 PM - TestNutanixCloudModel - INFO: Starting test_verify_database_as_service_benefits
+11/22/2025 02:58:31 PM - HomePage - INFO: Navigating directly to Database as Service page
+11/22/2025 02:58:35 PM - DatabaseAsServicePage - INFO: Waiting for maximum :: 10 :: seconds for element presence
+11/22/2025 02:58:35 PM - DatabaseAsServicePage - INFO: Element present on the web page
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //h2[contains(text(), 'NDB Benefits')] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Fast Snapshots")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Fast Snapshots
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Quick Provisioning")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Quick Provisioning
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Easy Patching")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Easy Patching
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Reduced Costs")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Reduced Costs
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Point-in-Time Recovery")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Point-in-Time Recovery
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Thin Cloning")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Thin Cloning
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Effortless Replication")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Effortless Replication
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found with locator: //*[contains(text(), "Boost Performance")] and  locatorType: xpath
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Element found
+11/22/2025 02:58:36 PM - DatabaseAsServicePage - INFO: Benefit found: Boost Performance
+11/22/2025 02:58:36 PM - TestNutanixCloudModel - INFO: Test Finished Successfully
